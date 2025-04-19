@@ -1,4 +1,4 @@
-const API_KEY = "f6def3fcd1b737d3fd3fde517804cf39";
+const API_KEY = "feb5a59077b542d3c0eb06f19cb600ba";
 
 const userTab = document.querySelector("[data-userWeather]");
 const searchTab = document.querySelector("[data-searchWeather]");
